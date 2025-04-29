@@ -1,5 +1,5 @@
 # shiny-octo-fiesta
 
-### Fragemrnt kodu
+### Fragment kodu
 
 ``` git commit ... ```
