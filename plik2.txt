@@ -3,3 +3,4 @@ zero
 dziesiec
 jedenscie dwanascie
 trzynaście czternaście
+pietnaście
